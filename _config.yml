@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: https://github.com/GoldenSweet/
+  instagram:https://www.instagram.com/golden__sweet__/
+  linkedin:www.linkedin.com/in/jintianwu
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
